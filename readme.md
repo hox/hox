@@ -6,4 +6,4 @@ If you like watching chill streams on Twitch and would like to see me program, g
 
 Thanks for checking out my github! (:
 
-*Image Copyright Elias Hernandez - 2020*
+*Image © Elias Hernandez - 2020*
