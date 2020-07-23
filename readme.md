@@ -5,3 +5,5 @@ Hey! Thanks for coming to my profile! My name is **Eli**, I am 15 years old and 
 If you like watching chill streams on Twitch and would like to see me program, give me a follow and turn notifications on for my [**Twitch**](https://eli.fail/twitch)!
 
 Thanks for checking out my github! (:
+
+*Image Copyright Elias Hernandez - 2020*
