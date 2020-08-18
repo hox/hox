@@ -7,7 +7,6 @@ Hey! Thanks for coming to my profile! My name is **Eli**, I am 15 years old and 
 I actively use the following languages:
 - Typescript
 - Javascript
-- C
 
 ## 🔗 Socials
 - [Website](https://eli.fail/)
