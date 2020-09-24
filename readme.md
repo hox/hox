@@ -1,12 +1,7 @@
 [![Elias Hernandez](https://eli.fail/f/background_personal_banner.png)](https://eli.fail)
 
 ## 👋 Information
-Hey! Thanks for coming to my profile! My name is **Eli**, I am 15 years old and currently reside in **Orlando, Florida**. I prefer to do **backend** work but am sufficient in **frontend** aswell. I'm currently not doing much with my life so yep.
-
-## 💻 Languages
-I actively use the following languages:
-- Typescript
-- Javascript
+Hey! Thanks for coming to my profile! I am Elias but please call me Eli, I hate my real name. I love doing backend work and mainly anything that involves infrastructure and lots of planning. I prefer using NodeJS in either JavaScript or TypeScript but am also open to learning new languages! If you think that we'd be good friends, check out my discord below and join the community!
 
 ## 🔗 Socials
 - [Website](https://eli.fail/)
