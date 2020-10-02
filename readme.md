@@ -8,5 +8,3 @@ Hey! Thanks for coming to my profile! I am Elias but please call me Eli, I hate 
 - [Discord](https://discord.gg/K2tzRPM)
 
 Thanks for checking out my github! :)
-
-*Image © Elias Hernandez - 2020*
