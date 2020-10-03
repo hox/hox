@@ -6,4 +6,4 @@ Hey, I'm Eli! Thanks for coming to my profile! I love doing backend work and mai
 - [Twitter](https://lnk.eli.tf/twitter)
 - [Discord](https://lnk.eli.tf/discord)
 
-Thanks for checking out my github! :)
+Thanks for checking out my github :)
