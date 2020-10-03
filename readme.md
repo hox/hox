@@ -3,8 +3,8 @@ Hey! Thanks for coming to my profile! I am Elias but please call me Eli, I hate 
 
 ## 🔗 Socials
 - [Website](https://eli.tf/)
-- [Twitter](https://twitter.com/shutupelii)
-- [Twitch](https://twitch.tv/nerdeli)
-- [Discord](https://discord.gg/K2tzRPM)
+- [Twitter](https://lnk.eli.tf/twitter)
+- [Twitch](https://lnk.eli.tf/twitch)
+- [Discord](https://lnk.eli.tf/discord)
 
 Thanks for checking out my github! :)
