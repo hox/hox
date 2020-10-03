@@ -4,7 +4,6 @@ Hey, I'm Eli! Thanks for coming to my profile! I love doing backend work and mai
 ## 🔗 Socials
 - [Website](https://eli.tf/)
 - [Twitter](https://lnk.eli.tf/twitter)
-- [Twitch](https://lnk.eli.tf/twitch)
 - [Discord](https://lnk.eli.tf/discord)
 
 Thanks for checking out my github! :)
