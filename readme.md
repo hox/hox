@@ -1,1 +1,1 @@
-Hey, I'm Eli! I enjoy doing Backend work and mainly use **TypeScript** with all of my projects, although I am learning **Elixir** and experimenting with WebSockets. If you have any questions or want to be good friends, please reach out to me on my [Twitter] (https://go.eli.tf)!
+Hey, I'm Eli! I enjoy doing Backend work and mainly use **TypeScript** with all of my projects, although I am learning **Elixir** and experimenting with WebSockets. If you have any questions or want to be good friends, please reach out to me on my [Twitter](https://go.eli.tf)!
