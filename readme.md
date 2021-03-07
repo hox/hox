@@ -7,7 +7,7 @@
     <br>
     Preferred Stack:
     <br>
-    ---------------------------
+    ----------------------------
     <br>
     NodeJS (Next.JS) - Frontend
     <br>
