@@ -32,9 +32,5 @@
     <br>
     <br>
     Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://go.eli.tf/twitter">@ShutUpElii</a>.
-    <br>
-    <br>
-    <br>
-    Other socials - <a href="https://eli.tf">eli.tf</a>
   </samp>
 </p>
