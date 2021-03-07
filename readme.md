@@ -9,11 +9,11 @@
     <br>
     ------------------
     <br>
-    NodeJS (Fastify) - API
+    Fastify (NodeJS) - API
     <br>
-    Elixir (Cowboy) - Realtime
+    Cowboy (Elixir) - Realtime
     <br>
-    NodeJS (Next.JS) - Frontend
+    Next.JS (NodeJS) - Frontend
     <br>
     <br>
     <br>
