@@ -21,7 +21,7 @@
     <br>
     -------------------------------------------------------------------------
     <br>
-    <a href="https://spaceflight.live">Space Flight Live</a> - Real time countdown and information for rocket launches.
+    <a href="https://spaceflight.live">Spaceflight Live</a> - Real time countdown and information for rocket launches.
     <br>
     <a href="https://github.com/hox/wakatime-api">Wakatime API</a> - Script to fetch Wakatime stats and update specified gist.
     <br>
