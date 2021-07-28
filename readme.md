@@ -27,8 +27,6 @@
     <br>
     <a href="https://eli.tf">Eli.tf</a> - My Personal website which shows all of my social links.
     <br>
-    <a href="https://nw.wtf">Elixir Chat</a> - Chat service I made when I was learning Elixir.
-    <br>
     <br>
     <br>
     Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://go.eli.tf/twitter">@ShutUpElii</a>.
