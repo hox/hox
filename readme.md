@@ -29,6 +29,8 @@
     <br>
     <a href="https://github.com/hox/noaa-nhc">NOAA NHC</a> - Script to fetch latest NHC Tropical Outlooks.
     <br>
+    <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
+    <br>
     <br>
     <br>
     Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://go.eli.tf/twitter">@ShutUpElii</a>.
