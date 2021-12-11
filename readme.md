@@ -19,7 +19,9 @@
     <br>
     Projects:
     <br>
-    -------------------------------------------------------------------------
+    -----------------------------------------------------------------------------
+    <br>
+    <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
     <br>
     <a href="https://spaceflight.live">Spaceflight Live</a> - Real time countdown and information for rocket launches.
     <br>
@@ -28,8 +30,6 @@
     <a href="https://eli.tf">Eli.tf</a> - My Personal website which shows all of my social links.
     <br>
     <a href="https://github.com/hox/noaa-nhc">NOAA NHC</a> - Script to fetch latest NHC Tropical Outlooks.
-    <br>
-    <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
     <br>
     <br>
     <br>
