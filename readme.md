@@ -5,20 +5,6 @@
     <br>
     <br>
     <br>
-    Preferred Stack:
-    <br>
-    ----------------------------
-    <br>
-    NodeJS (Next.JS) - Frontend
-    <br>
-    Elixir (Cowboy) - Realtime
-    <br>
-    NodeJS (Fastify) - API
-    <br>
-    <br>
-    <br>
-    Projects:
-    <br>
     -----------------------------------------------------------------------------
     <br>
     <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
