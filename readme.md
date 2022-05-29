@@ -13,6 +13,8 @@
     <br>
     <a href="https://github.com/hox/wakatime-api">Wakatime API</a> - Script to fetch Wakatime stats and update specified gist.
     <br>
+    <a href="https://twitter.com/SpaceXShopBot">SpaceX Shop Bot</a> - Scraping SpaceX's merch shop and tweeting updates.
+    <br>
     <a href="https://eli.tf">Eli.tf</a> - My Personal website which shows all of my social links.
     <br>
     <a href="https://github.com/hox/noaa-nhc">NOAA NHC</a> - Script to fetch latest NHC Tropical Outlooks.
