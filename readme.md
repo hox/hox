@@ -9,7 +9,7 @@
     <br>
     <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
     <br>
-    <a href="https://spaceflight.live">Spaceflight Live</a> - Real time countdown and information for rocket launches.
+    <a href="https://spaceflight.live">Spaceflight.live</a> - Real time countdown and information for rocket launches.
     <br>
     <a href="https://github.com/hox/wakatime-api">Wakatime API</a> - Script to fetch Wakatime stats and update specified gist.
     <br>
