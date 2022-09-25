@@ -19,6 +19,6 @@
     <br>
     <br>
     <br>
-    Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://twitter.com/ShutUpElii">@ShutUpElii</a>.
+    Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://twitter.com/hoxeli">@hoxeli</a>.
   </samp>
 </p>
