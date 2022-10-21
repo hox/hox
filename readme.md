@@ -5,7 +5,7 @@
     <br>
     <br>
     <br>
-    <a href="https://someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
+    <a href="https://github.com/hox/someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
     <br>
     <a href="https://spaceflight.live">Spaceflight.live</a> - Real time countdown and information for rocket launches.
     <br>
