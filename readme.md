@@ -1,24 +1,22 @@
 <p align="center">
   <br><br>
   <samp>
-    👋 Hi! I'm Eli.
+    <i>Hi! I'm <b>Eli</b></i>.
     <br>
+    <b>Backend Developer at ⚡ <a href="https://shockbyte.com">Shockbyte</a> ⚡</b>
+    <br><br><br>
+    <a href="https://spaceflight.live">Spaceflight.live</a> ~ Realtime countdown and info for rocket launches.
     <br>
+    <a href="https://github.com/hox/someones.live">Someones.live</a> ~ Redirects to random live twitch streamer.
     <br>
-    <a href="https://github.com/hox/someones.live">Someones.live</a> - Website that redirects you to a random live twitch streamer.
+    <a href="https://github.com/hox/noaa-nhc">NOAA NHC</a> ~ NHC Tropical Outlooks webhook notifications.
     <br>
-    <a href="https://spaceflight.live">Spaceflight.live</a> - Real time countdown and information for rocket launches.
-    <br>
-    <a href="https://github.com/hox/wakatime-api">Wakatime API</a> - Script to fetch Wakatime stats and update specified gist.
-    <br>
-    <a href="https://twitter.com/SpaceXShopBot">SpaceX Shop Bot</a> - Scraping SpaceX's merch shop and tweeting updates.
-    <br>
-    <a href="https://eli.tf">Eli.tf</a> - My Personal website which shows all of my social links.
-    <br>
-    <a href="https://github.com/hox/noaa-nhc">NOAA NHC</a> - Script to fetch latest NHC Tropical Outlooks.
-    <br>
-    <br>
-    <br>
-    Want to get in touch? Send a DM to me on Twitter 👉 <a href="https://twitter.com/hoxeli">@hoxeli</a>.
+    <a href="https://twitter.com/SpaceXShopBot">SpaceX Shop Bot</a> ~ Twitter bot for SpaceX's merch shop.
+    <br><br><br>
+    <i>
+      <a href="https://twitter.com/hoxeli">twitter</a> ~ <a href="https://www.linkedin.com/in/elirayhernandez/">linkedin</a>
+      <br>
+      <a href="https://eli.tf">eli.tf</a>
+    </i>
   </samp>
 </p>
