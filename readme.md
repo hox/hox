@@ -3,7 +3,7 @@
   <samp>
     <i>Hi! I'm <b>Eli</b></i>.
     <br>
-    <b>Backend Developer at ⚡ <a href="https://shockbyte.com">Shockbyte</a> ⚡</b>
+    <b>Software Engineer at ⚡ <a href="https://shockbyte.com">Shockbyte</a> ⚡</b>
     <br><br><br>
     <a href="https://spaceflight.live">Spaceflight.live</a> ~ Realtime countdown and info for rocket launches.
     <br>
