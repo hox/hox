@@ -14,9 +14,7 @@
     <a href="https://github.com/hox/someones.live">Someones.live</a> ~ Redirects to random twitch streamer.
     <br><br><br>
     <i>
-      <a href="https://twitter.com/hoxeli">twitter</a> ~ <a href="https://www.linkedin.com/in/elirayhernandez/">linkedin</a>
-      <br>
-      <a href="https://eli.tf">eli.tf</a>
+      <a href="https://www.linkedin.com/in/elirayhernandez/">linkedin</a>
     </i>
   </samp>
 </p>
